@@ -81,7 +81,11 @@ html = """
     display: flex;
     gap: 10px;
     margin-top: 25px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
 }
+
 .dot {
     width: 14px;
     height: 14px;
@@ -92,6 +96,17 @@ html = """
 .dot.active {
     background: #333;
 }
+
+/* Navigation buttons */
+.nav-buttons {
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
 </style>
 
 <div class="flowchart">
@@ -180,4 +195,5 @@ boxes.forEach((box, index) => {
 </script>
 """
 
-components.html(html, height=1200)
+components.html(html, height=1400, scrolling=True)
+
