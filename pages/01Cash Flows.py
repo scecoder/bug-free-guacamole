@@ -19,7 +19,7 @@ html = """
 
 /* Rectangle style */
 .box {
-    width: 360px;
+    width: 180px;
     height: auto;
     border-radius: 10px;
     padding: 12px;
