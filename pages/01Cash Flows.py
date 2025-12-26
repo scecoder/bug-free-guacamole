@@ -19,8 +19,8 @@ html = """
 
 /* Rectangle style */
 .box {
-    width: 420px;
-    height: 180px;
+    width: 360px;
+    height: auto;
     border-radius: 10px;
     padding: 12px;
     display: none;
@@ -28,7 +28,7 @@ html = """
     align-items: flex-start;
     justify-content: center;
     text-align: left;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 600;
     color: white;
     font-family: Arial, sans-serif !important;
