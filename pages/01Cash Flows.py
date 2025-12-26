@@ -179,3 +179,5 @@ boxes.forEach((box, index) => {
 });
 </script>
 """
+
+components.html(html, height=1200)
