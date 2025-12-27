@@ -50,11 +50,9 @@ html = """
 <div class="card credit" onclick="togglePanel('p2')">💳 Get a Credit Card AEAP (As Early As Possible)</div>
 <div id="p2" class="panel">
     <div>
-    <p> Like auto insurance rates being lower the earlier you get your driver's licence, <b> the earlier you obtain a credit card </b> (not a debit/ATM card; not a prepaid card; not a reloadable prepaid card), the more easily you can obtain a credit card when you reach an age where you'll want one for the cashback and other perks.  </p>
-
-    <p> One way to make it easier to obtain a credit card is to make a lot of money on a <b> W-2 </b> (ie; a good paying regular job, not Uber or other gig income aka 1099 income).  You'll be asked to show your paystubs. </p>
-    
-    <p> As a student, a fantastic income is usually not possible.  Another way to make it easier to obtain a credit card is to have someone who already has a credit card and a good credit score, put you on as an <b> Authorized User.</b>  Do not use that card.  Let the owner of the card keep their score up, and yours will increase as your credit record is eastablished.  You need to give them your <b> SSN </b> (social security number), so make sure it is someone you trust. 💳 </p> 
+    • Like auto insurance rates being lower the earlier you get your driver's licence, <b> the earlier you get a credit card </b> (not a debit/ATM card; not a prepaid card; not a reloadable prepaid card), the more easily you can obtain credit cards with better benefits, cheaper home loans, etc.<br></p>
+    • One way get a credit card is to show that you get paid very well <b> W-2 regular salary wages </b>, not 1099 gig "Uber" money).  You'll need to show paystubs.<br></p>
+    • As a student, the easiest way is to become an <b> Authorized User.</b>  Ask someone with a credit card to put you on as an Authorized User but not to give you the card at all and do not use that card if given.  A credit record will be established.  You need to give them your <b> SSN </b> (social security number), so make sure it is someone you trust. 💳
     </div>
 </div>
 
@@ -62,10 +60,11 @@ html = """
 <div class="card insurance" onclick="togglePanel('p1')">🧬 Buy Term Life Insurance AEAP </div>
 <div id="p1" class="panel">
     <div>
-    <p>Recall the Biblical incident of the widow's only son passing away and people including Jesus taking pity on this widow because that son was the her only means to an income (Luke 7:11-16).  Jesus brought him back to life; however, had he had a life insurance policy, the policy would have paid out a certain sum of money to his mom at his untimely death, ensuring her financial survival. <b> Life insurance, specifically term life insurance is much, much cheaper before you turn 30 </b> (Whole life insurance is much more expensive and makes you an unecessary target for murder; Term life is less murder-inducing because it is more limited).  <b> Term life is insurance </b> that gives your family a <b> payout if you die between within a certain time span </b> (specified in the policy).  Whole life pays out when you die no matter when that is.  When you're under 30, term life policies are around $20 per month; when you're over 30, you pay lot more for the same <b> payout </b> upon death ($50k to $1 million depending on which policy you purchase).  
-    <p> For an additional $10 per month, you can add a <b> Return of Premium rider </b> (a special insurance feature that costs more), meaning if you live past the term of the policy, you get your monthly payments back on a rising scale (the later in the term the more you get back). </p>
+    • Recall the Biblical incident of the widow's only son passing away and people including Jesus taking pity on this widow because that son was the her only means to an income (Luke 7:11-16).  Jesus brought him back to life; however, had he had a life insurance policy, the policy would have paid money to his mom, ensuring her financial survival. <b> Life insurance, specifically term life insurance, is much cheaper before you turn 30</b>, when it's around $20 per month; when you're over 30, you pay around twice as much.  <b> Term life insurance</b> gives your family a <b>payout if you die between within a certain time </b> (specified in the policy).  Whole life pays out when you die no matter when that is, so it's more expensive. <br></p>
+    
+    • For an additional $10 per month, you can add a <b> Return of Premium rider </b> (a special insurance feature that costs more), meaning if you live past the term of the policy, you get your monthly payments back on a rising scale (the later in the term the more you get back). <br></p>
 	
-	<p> <b> Larger payouts mean higher monthly premiums.  How much of a payout do you need? </b> It depends on a dizzying array of factors, but my rule of thumb is to get enough to keep the family in the house for one year until they can get back on their own feet.  (These days, that widow would be able to generate her own income, but even then there needs to be a transition period for her to get setup to earn her own income.) By the time the term of the policy ends and you're no longer covered by insurance on death, you'll have enough money saved for your family to survive. 🧬 </p> 
+	• Term life prices are higher if the payout, or money received at death, is more.  How much of a payout do you need? </b> Just pay for as much as you can tolerate.  It depends on a dizzying array of factors, but my rule of thumb is to get enough to keep the family in the house for one year until they can transition on their own income.  If you outlive the term of the insurance policy, you'll have enough money saved for your family to survive (so no need for Whole Life insurance), and with the Return of Premium rider, you will get your monthly payments returned to you 🧬 </p> 
     </div>
 </div>
 
@@ -73,14 +72,12 @@ html = """
 <div class="card retire" onclick="togglePanel('p3')">🏦 Max Your Contribution to 401k AEAP</div>
 <div id="p3" class="panel">
     <div>
-    <p> For this section, this is not from my experience because I haven't retired.  This is from the experience of two retirees in the past 5 years who have given me this advice who continue to be solid financial ground at retirement. </p>
+    • From the mouths of two independent successful retirees, I have been advised to contribute the maximum to retirement accounts, specifically the 401k, which has a maximum contribution of $24,500 in 2026 and increases about $1k every year. <br></p> 
     
-	<p> Also note that there a a lot of different types retirement accounts depending on which type of company you work for (local government, federal government, private enterprise, limited liability company, Canadian company, etc).  <b> A 401k and a 403b are the same type of account for purposes of this discussion</b>; you will know which one applies when your employer tells you. </p>
-
-	<p> These two retirees have told me to <b> contribute the maximum amount to a 401k, which in 2026 is $24,500 </b> and rises about $1k almost every year.  <b> At least contribute as much as you can earlier </b> than later so that interest can work its magic earlier.  Interest is more effective the longer the time period, so starting earlier will be exponentially more effective.  If it is a <b> Roth 401k </b>, it means you don't get a tax break on your contribution, but you can take out that money penalty-free at any time, and all gains and losses are tax free. </p>
+    • There are many different types retirement accounts with different max contribution amounts: IRA, Roth IRA, 410k, 403b, etc.  You can set up your own IRA and Roth IRA.  401k and 403b accounts are only offered by companies to their employees.  Aim to contribute the corresponding maximum, or at least the maximum you can tolerate. <br></p>
     
-    <p> If you can take out your contribution at any time, why not contribute the max and then withdraw as needed?  This keeps your money safe from yourself, and there sometimes is a <b> company match </b> that is an extra contribution to the account above the contribution limits. </p>
-    </div>
+	• In addition to the max contribution, consider the <b> Roth IRA and Roth 401k </b> accounts because they allow you to take money out without penalties.  Roth IRAs are offered by many banks and many have sign-up bonuses.  Roth 401k accounts are offered by companies to their employees and are administered by a third party company.  If that third party company doesn't make it too much of a headache to take out money, why not contribute the maximum amount and take out the money as needed?  <br> </p>
+	</div>
 </div>
 
 <div class="card interest" onclick="togglePanel('p4')">📈 Higher, Faster, Earlier (An Ode to Interest) </div>
